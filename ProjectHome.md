@@ -1,0 +1,1 @@
+**dotGecko** is the software library that enable Gecko to be embedded with .NET compatible languages.
